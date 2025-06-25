@@ -40,7 +40,7 @@
 
 - Data Science – Internshala  
 - Java – Coding Ninjas  
-- Data Structures – Coursera  
+- Data Structures – Coding Ninjas  
 - Introduction to AI – Coursera  
 - Python Basics – Coursera  
 - Web Development – Coursera
